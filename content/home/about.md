@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Computer Vision and Deep Learning"
+  course = "PhD in Computer Vision"
   institution = "University of Technology Sydney"
   year = 2018
 
