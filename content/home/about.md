@@ -29,7 +29,7 @@ weight = 5
 [[education.courses]]
   course = "Bachelor of Science(Engineering)"
   institution = "Beijing University of Posts and Telecommunications"
-  year = 2016
+  year = 2017
  
 +++
 
