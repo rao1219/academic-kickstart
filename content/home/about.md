@@ -24,12 +24,12 @@ weight = 5
 [[education.courses]]
   course = "Bachelor of Science(Engineering)"
   institution = "Queen Mary University of London"
-  year = 2013-2017
+  year = 2017
 
 [[education.courses]]
   course = "Bachelor of Science(Engineering)"
   institution = "Beijing University of Posts and Telecommunications"
-  year = 2013-2017
+  year = 2017
  
 +++
 
